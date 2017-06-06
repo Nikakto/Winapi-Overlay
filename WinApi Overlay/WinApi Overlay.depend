@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1495997985 source:d:\cpp prject\winapi overlay\winapi overlay\main.cpp
+	<iostream>
+	<thread>
+	<map>
+	<tchar.h>
+	<windows.h>
+	<gdiplus.h>
+
